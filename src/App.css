@@ -1,0 +1,16 @@
+body{
+  margin: 0;padding: 0;box-sizing: border-box;
+  background: url('../bg-grid.png');
+  background-color: #eceef1;
+  background-size: 150px;
+}
+
+ input[type="range"] { 
+  margin: auto;
+  /* -webkit-appearance: none; */
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0; /* iOS */
+}
+
